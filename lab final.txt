@@ -1,0 +1,4 @@
+code-2 ta
+parle 7 marks;bujale 3 marks
+5-queue-3
+link list-2
